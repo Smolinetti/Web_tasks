@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(205, 222, 253);
+    text-align: center;
+}
+
+.marker_center {
+    list-style-position:inside;
+}
+
+p {
+    color: blue;
+    font-weight: bold;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+li {
+    font-style: italic;
+}
